@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Alan Doe
     tagline: Full Stack Developer
-    avatar: assets/images/4e1b86e9f82378dab0524e13571fa8d98366990.png@1295w.webp  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: xinxiaomeng.jpg#place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hello@webjeda.com
